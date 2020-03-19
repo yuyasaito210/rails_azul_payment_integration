@@ -220,7 +220,7 @@ GEM
       interception (>= 0.5)
       pry
     public_suffix (3.0.2)
-    puma (3.11.3)
+    puma (3.12.4)
     rack (2.0.4)
     rack-test (1.0.0)
       rack (>= 1.0, < 3)
@@ -387,7 +387,7 @@ DEPENDENCIES
   pg (~> 0.18)
   pry-rails
   pry-rescue
-  puma (~> 3.7)
+  puma (~> 3.12)
   rails (~> 5.1.6)
   rails_12factor
   rails_layout
